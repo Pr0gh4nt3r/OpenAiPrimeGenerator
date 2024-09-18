@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenAiPrimeGenerator", "OpenAiPrimeGenerator\OpenAiPrimeGenerator.csproj", "{6A8B1D3E-A2B0-488C-BE0E-3AFB50B44B36}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenAIRandomPrime", "OpenAiRandomPrime\OpenAIRandomPrime.csproj", "{95A51C80-9D84-4943-8BA5-0B5C045D4449}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A8B1D3E-A2B0-488C-BE0E-3AFB50B44B36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A8B1D3E-A2B0-488C-BE0E-3AFB50B44B36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A8B1D3E-A2B0-488C-BE0E-3AFB50B44B36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A8B1D3E-A2B0-488C-BE0E-3AFB50B44B36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95A51C80-9D84-4943-8BA5-0B5C045D4449}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95A51C80-9D84-4943-8BA5-0B5C045D4449}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95A51C80-9D84-4943-8BA5-0B5C045D4449}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95A51C80-9D84-4943-8BA5-0B5C045D4449}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2AB9C96-A249-4FEF-940A-A89460D7D171}
+	EndGlobalSection
+EndGlobal
